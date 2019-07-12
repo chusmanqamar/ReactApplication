@@ -1,0 +1,21 @@
+.banner img{
+    height: 500px;
+    width: 100%;
+}
+.navbarBack{
+    background: black;
+}
+.nav-link, .navbar-brand{
+    color: white !important;
+}
+.card-img-top{
+    height: 219px !important;
+}
+.nav-link{
+    color: white !important;
+    padding: 7px 10px !important;
+}
+.myNav ul{
+   flex-direction: row !important;
+   padding: 8px 0;
+}
